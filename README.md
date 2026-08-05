@@ -113,8 +113,6 @@ I design, automate, and operate **multi‑cloud platforms** across **AWS, Azure,
 - **CompTIA Security+**
 
 ---
-
-# 📊 GitHub Stats
 # 📊 GitHub Stats
 
 <p align="center">
@@ -123,12 +121,12 @@ I design, automate, and operate **multi‑cloud platforms** across **AWS, Azure,
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anitha28-n&layout=compact&theme=tokyonight" />
 </p>
 
+<hr style="border:1px solid #00AEEF; width:80%; margin:auto;">
+
 <!-- 🐍 SNAKE ANIMATION -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anitha28-n/Anitha28-n/output/github-contribution-grid-snake.svg" />
-
 </p>
-
 
 # 🤝 Connect with Me
 
