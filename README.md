@@ -129,10 +129,10 @@ I design, automate, and operate **multi‑cloud platforms** across **AWS, Azure,
 
 - **LinkedIn:** www.linkedin.com/in/anitha-u-8874541b0  
 - **Email:** canitacl09@gmail.com  
-- **Portfolio:** *Coming soon*
+
 
 ---
 
 # 🌟 Fun Fact
 
-I automate tasks before they ever become problems — reliability through foresight is my engineering superpower.
+**_I enjoy building cloud infrastructure, automating deployments, and solving production issues just as much as creating new environments_**.
