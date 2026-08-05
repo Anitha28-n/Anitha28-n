@@ -115,9 +115,9 @@ I design, automate, and operate **multi‑cloud platforms** across **AWS, Azure,
 ---
 # 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anitha28-n&show_icons=true&theme=tokyonight" />
+ 
   <img src="https://streak-stats.demolab.com/?user=Anitha28-n&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anitha28-n&layout=compact&theme=tokyonight" />
+  
 </p>
 
 <!-- 🐍 SNAKE ANIMATION -->
