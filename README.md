@@ -4,10 +4,10 @@
 </p>
 
 <!-- CLOUD ENGINEERING BANNER -->
-<!-- BANNER GOES HERE -->
 <p align="center">
-  <img src="https://i.imgur.com/zYz8FvC.png" width="90%" alt="Cloud Engineering Banner"/>
+  <img src="https://raw.githubusercontent.com/Anitha28-n/Anitha28-n/main/Banner.png" width="100%" alt="Cloud Infrastructure & DevOps Engineer Banner"/>
 </p>
+
 
 ---
 
