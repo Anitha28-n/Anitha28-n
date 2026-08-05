@@ -4,6 +4,7 @@
 </p>
 
 <!-- CLOUD ENGINEERING BANNER -->
+<!-- BANNER GOES HERE -->
 <p align="center">
   <img src="https://i.imgur.com/zYz8FvC.png" width="90%" alt="Cloud Engineering Banner"/>
 </p>
