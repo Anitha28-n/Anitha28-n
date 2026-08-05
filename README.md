@@ -1,7 +1,8 @@
 <!-- ANIMATED HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=00AEEF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Anitha+👋;Cloud+DevOps+Engineer;Site+Reliability+Engineer+(SRE);Platform+Engineer;AWS+%7C+Azure+%7C+GCP+Expert;%20Kubernetes+%7C+Terraform+%7C+CI%2FCD+Automation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=00AEEF&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Anitha+👋;Cloud+DevOps+Engineer;Site+Reliability+Engineer+(SRE);Platform+Engineer;AWS+%7C+Azure+%7C+GCP+Expert;%20%20Kubernetes+%7C+Terraform+%7C+CI%2FCD+Automation&pause=1000&random=2" />
 </p>
+
 
 
 
