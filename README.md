@@ -130,9 +130,8 @@ I design, automate, and operate **multi‑cloud platforms** across **AWS, Azure,
 
 # 🤝 Connect with Me
 
-- **LinkedIn:** www.linkedin.com/in/anitha-u-8874541b0  
-- **Email:** canitacl09@gmail.com  
-
+- **LinkedIn:** [www.linkedin.com/in/anitha-u-8874541b](https://www.linkedin.com/in/anitha-u-8874541b)
+- **Email:** [canitac109@gmail.com](mailto:canitac109@gmail.com)
 
 ---
 
