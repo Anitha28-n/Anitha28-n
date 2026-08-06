@@ -81,18 +81,6 @@ At the end of the day, I love solving problems, simplifying complexity, and buil
 ![MFA](https://img.shields.io/badge/MFA-000000?style=for-the-badge)
 
 ---
-# 🎯 Current Focus
-
-- Multi‑Cloud Infrastructure (AWS, Azure, GCP)  
-- Kubernetes Platforms (EKS, AKS, GKE)  
-- Infrastructure as Code (Terraform, CloudFormation, Ansible)  
-- CI/CD Pipeline Engineering  
-- SRE Practices & Reliability Automation  
-- Observability & Monitoring  
-- High Availability & Disaster Recovery  
-
----
-
 ## 🔭 Projects
 
 | Project | Description | Tech Stack |
@@ -103,10 +91,9 @@ At the end of the day, I love solving problems, simplifying complexity, and buil
 | [SecureCloudOps](https://github.com/AnithaN/SecureCloudOps) | 🔐 Infrastructure security and compliance automation using policy‑as‑code. | Sentinel · IAM · Entra ID · Terraform · Python |
 
 ---
-## 🌱 Currently Learning & Exploring
-
+## 🎯 Currently Learning & Exploring
+- 🤖 AI‑Driven Infrastructure Automation
 - ☸️ Advanced Kubernetes & Platform Engineering  
-- 🤖 AI‑Driven Infrastructure Automation  
 - 🚀 Cloud‑Native Architecture & Infrastructure Automation  
 - 🔒 DevSecOps, Cloud Security & Secure Software Delivery
 
