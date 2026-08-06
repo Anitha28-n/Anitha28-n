@@ -76,79 +76,6 @@ At the end of the day, I love solving problems, simplifying complexity, and buil
 ![MFA](https://img.shields.io/badge/MFA-000000?style=for-the-badge)
 
 ---
-## 🧠 Skill Matrix
-
-<details>
-<summary>☁️ Cloud Platforms</summary>
-<ul>
-  <li>AWS</li>
-  <li>Azure</li>
-  <li>GCP</li>
-</ul>
-</details>
-
-<details>
-<summary>🐳 Containers & Orchestration</summary>
-<ul>
-  <li>Docker</li>
-  <li>Podman</li>
-  <li>Kubernetes</li>
-  <li>EKS · AKS · GKE</li>
-  <li>Helm · ArgoCD</li>
-</ul>
-</details>
-
-<details>
-<summary>🔄 CI/CD</summary>
-<ul>
-  <li>Jenkins</li>
-  <li>GitHub Actions</li>
-  <li>Azure DevOps</li>
-  <li>GitLab CI</li>
-</ul>
-</details>
-
-<details>
-<summary>🏗️ Infrastructure as Code</summary>
-<ul>
-  <li>Terraform</li>
-  <li>CloudFormation</li>
-  <li>Ansible</li>
-  <li>Sentinel</li>
-</ul>
-</details>
-
-<details>
-<summary>📈 Monitoring & Observability</summary>
-<ul>
-  <li>Prometheus</li>
-  <li>Grafana</li>
-  <li>CloudWatch</li>
-  <li>Azure Monitor</li>
-</ul>
-</details>
-
-<details>
-<summary>💻 Programming & Scripting</summary>
-<ul>
-  <li>Python</li>
-  <li>Bash</li>
-  <li>YAML</li>
-  <li>Java</li>
-  <li>.NET</li>
-</ul>
-</details>
-
-<details>
-<summary>🔐 Security & Identity</summary>
-<ul>
-  <li>IAM</li>
-  <li>Entra ID</li>
-  <li>MFA</li>
-</ul>
-</details>
-
-
 # 🎯 Current Focus
 
 - Multi‑Cloud Infrastructure (AWS, Azure, GCP)  
@@ -161,18 +88,14 @@ At the end of the day, I love solving problems, simplifying complexity, and buil
 
 ---
 
-# 📂 Featured Projects (Coming Soon)
+## 🔭 Projects
 
-- AWS Terraform Infrastructure  
-- Azure Automation Blueprints  
-- GCP + GKE Platform Engineering  
-- Kubernetes Cluster Deployments (EKS/AKS/GKE)  
-- GitOps with ArgoCD  
-- CI/CD Pipelines (Jenkins, GitHub Actions, GitLab)  
-- Prometheus + Grafana Monitoring Stack  
-- Ansible Automation Playbooks  
-- Cloud Networking Architectures  
-- SRE Runbooks & Reliability Tooling  
+| Project | Description | Tech Stack |
+|----------|--------------|------------|
+| [CloudOps-Automator](https://github.com/AnithaN/CloudOps-Automator) | ⚙️ Automated cloud infrastructure provisioning and monitoring tool for multi‑cloud environments. | Terraform · AWS · Azure · GCP · Python |
+| [KubeGuardian](https://github.com/AnithaN/KubeGuardian) | 🐳 Kubernetes reliability and security toolkit with integrated SRE dashboards. | Kubernetes · Helm · Prometheus · Grafana · Bash |
+| [InfraFlow](https://github.com/AnithaN/InfraFlow) | 🏗️ End‑to‑end CI/CD pipeline automation for cloud‑native apps. | Jenkins · GitHub Actions · Docker · ArgoCD · YAML |
+| [SecureCloudOps](https://github.com/AnithaN/SecureCloudOps) | 🔐 Infrastructure security and compliance automation using policy‑as‑code. | Sentinel · IAM · Entra ID · Terraform · Python |
 
 ---
 
