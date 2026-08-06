@@ -80,6 +80,39 @@ At the end of the day, I love solving problems, simplifying complexity, and buil
 ![EntraID](https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![MFA](https://img.shields.io/badge/MFA-000000?style=for-the-badge)
 
+
+
+# 🚀 Engineering Toolkit
+
+🟠 **Cloud**
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp"/>
+</p>
+
+🔵 **Infrastructure as Code**
+<p>
+<img src="https://skillicons.dev/icons?i=terraform,ansible"/>
+</p>
+
+🟣 **Containers & Platform**
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes"/>
+</p>
+
+🟢 **CI/CD**
+<p>
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab"/>
+</p>
+
+🟡 **Monitoring**
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana"/>
+</p>
+
+⚫ **Languages**
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash"/>
+</p>
 ---
 ## 🔭 Projects
 
@@ -111,7 +144,7 @@ At the end of the day, I love solving problems, simplifying complexity, and buil
 </p>
 
 
-# 🤝 Connect with Me
+# 🤝 Let's Connect & Collaborate 🚀 
 
 - **LinkedIn:** [www.linkedin.com/in/anitha-u-8874541b](https://www.linkedin.com/in/anitha-u-8874541b)
 - **Email:** [canitac109@gmail.com](mailto:canitac109@gmail.com)
