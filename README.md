@@ -76,6 +76,78 @@ At the end of the day, I love solving problems, simplifying complexity, and buil
 ![MFA](https://img.shields.io/badge/MFA-000000?style=for-the-badge)
 
 ---
+## 🧠 Skill Matrix
+
+<details>
+<summary>☁️ Cloud Platforms</summary>
+<ul>
+  <li>AWS</li>
+  <li>Azure</li>
+  <li>GCP</li>
+</ul>
+</details>
+
+<details>
+<summary>🐳 Containers & Orchestration</summary>
+<ul>
+  <li>Docker</li>
+  <li>Podman</li>
+  <li>Kubernetes</li>
+  <li>EKS · AKS · GKE</li>
+  <li>Helm · ArgoCD</li>
+</ul>
+</details>
+
+<details>
+<summary>🔄 CI/CD</summary>
+<ul>
+  <li>Jenkins</li>
+  <li>GitHub Actions</li>
+  <li>Azure DevOps</li>
+  <li>GitLab CI</li>
+</ul>
+</details>
+
+<details>
+<summary>🏗️ Infrastructure as Code</summary>
+<ul>
+  <li>Terraform</li>
+  <li>CloudFormation</li>
+  <li>Ansible</li>
+  <li>Sentinel</li>
+</ul>
+</details>
+
+<details>
+<summary>📈 Monitoring & Observability</summary>
+<ul>
+  <li>Prometheus</li>
+  <li>Grafana</li>
+  <li>CloudWatch</li>
+  <li>Azure Monitor</li>
+</ul>
+</details>
+
+<details>
+<summary>💻 Programming & Scripting</summary>
+<ul>
+  <li>Python</li>
+  <li>Bash</li>
+  <li>YAML</li>
+  <li>Java</li>
+  <li>.NET</li>
+</ul>
+</details>
+
+<details>
+<summary>🔐 Security & Identity</summary>
+<ul>
+  <li>IAM</li>
+  <li>Entra ID</li>
+  <li>MFA</li>
+</ul>
+</details>
+
 
 # 🎯 Current Focus
 
