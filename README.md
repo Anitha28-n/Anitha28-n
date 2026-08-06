@@ -28,17 +28,10 @@ I care deeply about observability, using Prometheus, Grafana, CloudWatch, and Az
 At the end of the day, I love solving problems, simplifying complexity, and building cloud environments that teams can trust and scale without fear.
 
 ---
-###💼 Master’s in Cybersecurity & Networking📍**University of New Haven** 🎓*Graduated May 2026* 
- 
-Focused on cloud security, network defense, secure infrastructure automation, and applied cybersecurity practices.
 ## 🎓 Education
-
-<h3 align="center">Master’s in Cybersecurity & Networking</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00AEEF&center=true&vCenter=true&width=900&lines=University+of+New+Haven;Graduated+May+2026;Cloud+Security+%7C+Network+Defense+%7C+Secure+Infrastructure+Automation" />
-</p>
-
+💼 **Master’s in Cybersecurity & Networking**📍**University of New Haven** 🎓*Graduated May 2026* 
+ _Focused on cloud security, network defense, secure infrastructure automation, and applied cybersecurity practices.
+_
 
 # 🧰 Tech Stack
 
