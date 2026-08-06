@@ -110,24 +110,6 @@ At the end of the day, I love solving problems, simplifying complexity, and buil
 - 🚀 Cloud‑Native Architecture & Infrastructure Automation  
 - 🔒 DevSecOps, Cloud Security & Secure Software Delivery
 
-## 🌱 Currently Learning & Exploring
-
-![Kubernetes](https://img.shields.io/badge/Advanced%20Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Platform Engineering](https://img.shields.io/badge/Platform%20Engineering-4B8BBE?style=flat)
-![AI Automation](https://img.shields.io/badge/AI--Driven%20Automation-FF6F00?style=flat&logo=googlecloud&logoColor=white)
-![Cloud Native](https://img.shields.io/badge/Cloud--Native%20Architecture-0085CA?style=flat&logo=cloudflare&logoColor=white)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-000000?style=flat&logo=github&logoColor=white)
-![Cloud Security](https://img.shields.io/badge/Cloud%20Security-FF0000?style=flat&logo=security&logoColor=white)
-
-<h2 align="center">🌱 Currently Learning & Exploring</h2>
-
-<p align="center">
-  ☸️ Advanced Kubernetes & Platform Engineering <br>
-  🤖 AI‑Driven Infrastructure Automation <br>
-  🚀 Cloud‑Native Architecture & Infrastructure Automation <br>
-  🔒 DevSecOps, Cloud Security & Secure Software Delivery
-</p>
-
 # 🎓 Certifications
 
 - **AWS Solutions Architect – Associate (SAA‑C03)**  
