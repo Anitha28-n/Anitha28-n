@@ -30,6 +30,7 @@ At the end of the day, I love solving problems, simplifying complexity, and buil
 ---
 ## 🎓 Education
 💼 **Master’s in Cybersecurity & Networking**📍**University of New Haven** 🎓*Graduated May 2026* 
+
  _Focused on cloud security, network defense, secure infrastructure automation, and applied cybersecurity practices.
 _
 
