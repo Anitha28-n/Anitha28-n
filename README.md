@@ -15,10 +15,12 @@
 ---
 
 # 🌟 About Me
+
 I’m a Cloud DevOps, SRE, and Infrastructure Engineer who loves building things that don’t just work they stay reliable, secure, and scalable no matter how fast they grow. I spend most of my time designing and automating cloud platforms across AWS, Azure, and GCP, turning complex infrastructure into clean, repeatable systems using tools like Terraform, CloudFormation, and Ansible.
 I enjoy working with Kubernetes whether it’s EKS, AKS, or GKE and building CI/CD pipelines that help teams ship faster and with confidence using Jenkins, GitHub Actions, Azure DevOps, and GitLab. A big part of my approach comes from SRE principles: thinking in SLIs/SLOs, improving reliability through automation, and making sure incidents turn into learning, not chaos.
 I care deeply about observability, using Prometheus, Grafana, CloudWatch, and Azure Monitor to make systems transparent and predictable. I also work across cloud networking, Linux administration, and security fundamentals like IAM, MFA, encryption, and least‑privilege access because great platforms aren’t just fast, they’re safe.
 At the end of the day, I love solving problems, simplifying complexity, and building cloud environments that teams can trust and scale without fear.
+
 ---
 
 # 🧰 Tech Stack
