@@ -81,39 +81,73 @@ At the end of the day, I love solving problems, simplifying complexity, and buil
 ![MFA](https://img.shields.io/badge/MFA-000000?style=for-the-badge)
 
 
+----
+# 💼 Tech Stack
 
-# 🚀 Engineering Toolkit
+<table>
+<tr>
+<td valign="top" width="50%">
 
-🟠 **Cloud**
+### ☁️ Cloud Platforms
+
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
-🔵 **Infrastructure as Code**
+### 🏗️ Infrastructure as Code
+
 <p>
-<img src="https://skillicons.dev/icons?i=terraform,ansible"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
 </p>
 
-🟣 **Containers & Platform**
+### ☸️ Containers & Orchestration
+
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
 </p>
 
-🟢 **CI/CD**
+</td>
+
+<td valign="top" width="50%">
+
+### 🚀 CI/CD
+
 <p>
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </p>
 
-🟡 **Monitoring**
+### 📊 Monitoring & Observability
+
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-6E4AFF?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
-⚫ **Languages**
+### 💻 Languages
+
 <p>
-<img src="https://skillicons.dev/icons?i=python,bash"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
 </p>
----
+
+</td>
+</tr>
+</table>
+-------------
 ## 🔭 Projects
 
 | Project | Description | Tech Stack |
