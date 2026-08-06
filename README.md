@@ -1,5 +1,4 @@
 <!-- STATIC NAME -->
-<!-- STATIC NAME -->
 <h1 align="center">Anitha N</h1>
 
 <!-- TAGLINE -->
@@ -9,8 +8,9 @@
 
 <!-- ANIMATED HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=00AEEF&center=true&vCenter=true&width=950&lines=👋+Hi%2C+I'm+Anitha;Cloud+DevOps+Engineer;Site+Reliability+Engineer+(SRE);Platform+Engineer;Infrastructure+Automation+Specialist;Multi-Cloud+Architect+(AWS+%7C+Azure+%7C+GCP);Kubernetes+%7C+Terraform+%7C+CI%2FCD+Automation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=00AEEF&center=true&vCenter=true&width=950&lines=Hey+hi%2C+I+am+Anitha+👋;Cloud+DevOps+Engineer;Site+Reliability+Engineer+(SRE);Platform+Engineer;Infrastructure+Automation+Specialist;Multi-Cloud+Architect+(AWS+%7C+Azure+%7C+GCP);Kubernetes+%7C+Terraform+%7C+CI%2FCD+Automation" />
 </p>
+
 
 <!-- CLOUD ENGINEERING BANNER -->
 <p align="center">
